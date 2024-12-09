@@ -2,6 +2,7 @@
 Programming Assignment 2
 
 Docker Hub: https://hub.docker.com/r/poornimaraghavan/wine-quality-predictor/tags
+
 Steps:
 1.	Create 4 instances on AWS Master and Slaves
  
